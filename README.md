@@ -17,7 +17,9 @@
 Apaixonado por tecnologia a cada dia buscando ser melhor do que ontem, metodologia KAIZEN ! 👊
 
 ## Últimas Tecnologias aprendidas e em aprendizado #atualizado:
-- HTML5
-- CSS3
+- ANGULAR 
+- JAVA SPRINGBOT
+- MYSQL
 - JAVASCRIPT
-- ANGULAR em PROCESSO!
+- REACT
+
